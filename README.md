@@ -3,7 +3,7 @@
 We live in an era where attention to detail is valued, and there is a heightened focus on health.
 From tracking pulse rate to steps taken, monitoring protein intake and calories burned, so why not consider tracking the number of mouse clicks?
 
-Here is a simple executable that can provide your click count until prompted.
+Here is a simple executable that can provide your click count until prompted: https://github.com/shrutisawant6/count-clicks-exe 
 
 The factors that could influence the count are:
 - Mouse condition
