@@ -5,6 +5,8 @@ From tracking pulse rate to steps taken, monitoring protein intake and calories 
 
 Here is a simple executable that can provide your click count until prompted: https://github.com/shrutisawant6/count-clicks-exe 
 
+**You can keep it running the whole day without any performance issues.**
+
 The factors that could influence the count are:
 - Mouse condition
 - Laptop touchpad sensitivity
